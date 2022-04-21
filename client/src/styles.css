@@ -1,0 +1,167 @@
+
+html {
+  padding: 18px;
+  
+}
+body {
+background: linear-gradient(rgb(221, 221, 221), rgb(50, 50, 50));
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+a {
+  text-decoration: none;
+  color: rgb(31, 31, 31)
+
+}
+
+
+
+
+
+.goal {
+  margin-bottom: 20px;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  width: 500px;
+  padding: 14px;
+  color: whitesmoke;
+  background-color: rgb(33, 33, 33);
+}
+
+.goal-itself {
+  height: 200px;
+  padding: 20px;
+}
+
+
+
+#features {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  
+}
+
+#feature-buttons {
+  margin-right: 12px;
+}
+
+#edit-goal {
+  margin-bottom: 20px;
+}
+
+#by {
+  font-style: italic;
+  font-weight: 150;
+  font-size: smaller;
+}
+
+#goal-itself {
+  margin-top: -2px;
+  margin-bottom: -10px;
+  margin-left: 2.5px;
+} 
+
+
+
+
+.publicGoals {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.goal-form {
+  text-align: center;
+  padding: 10px;
+}
+
+.post-goal {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.just-inputs {
+  margin-bottom: 20px;
+}
+
+.userGoals h3 {
+  
+  text-align: center;
+  margin-bottom: 40px;
+  
+}
+
+.userGoals {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+input {
+  border: none;
+  margin-right: 50px;
+  background: none;
+  border-bottom: 2px solid green;
+  width: 300px;
+  height: 40px;
+  color: rgb(24, 24, 24);
+}
+
+input:focus {
+  outline: none;
+}
+
+input::placeholder {
+  color: rgb(24, 24, 24);
+}
+
+#navbar {
+  margin-bottom: 50px;
+}
+
+a ::selection{
+  border-top:rgb(24, 24, 24)
+}
+
+
+#float-right {
+  float: right;
+}
+
+#submit-goal {
+  height: 40px;
+}
+
+
+a:hover {
+  color: rgb(84, 84, 84);
+}
+
+a:active {
+  border-top: 2px solid black;
+}
+
+li {
+  width: 130px;
+}
