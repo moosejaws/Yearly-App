@@ -2,7 +2,7 @@ Yearly App
 
 Description
 
-    Each New Years Holiday my friends’ family has a Sunday dinner where everyone shares how their annual goals went and what their new ones are. The matriarch, Stephanie, writes down each person’s goals on a piece of paper that she holds onto until the end of the year.
+    Each New Years Holiday my friends’ family has a Sunday dinner where everyone shares how their annual goals went and what their new ones are. 
 
     Yearly digitally tracks your annual goals all in one place and shares how the people who matter in your life are doing on theirs. 
 
