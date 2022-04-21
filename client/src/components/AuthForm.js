@@ -15,7 +15,7 @@ export default function AuthForm(props){
     return (
     
         <form className="auth-form" onSubmit={handleSubmit}>
-            <input 
+            <input className="just-inputs"
 
             type="text"
             name="username" 
@@ -29,7 +29,7 @@ export default function AuthForm(props){
             value={password} 
             onChange={handleChange} 
             placeholder="Password"/>
-            <button>{btnTxt}</button>
+            <button id="submit-goal" class="btn btn-dark">{btnTxt}</button>
         </form>
         
     )
